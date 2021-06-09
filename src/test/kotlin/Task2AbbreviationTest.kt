@@ -1,6 +1,6 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
-import subtask3.Abbreviation
+import subtask2.Abbreviation
 
 class Task2AbbreviationTest {
 

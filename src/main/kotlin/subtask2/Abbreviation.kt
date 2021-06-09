@@ -1,9 +1,9 @@
 package subtask2
 
-class TimeConverter {
+class Abbreviation {
 
     // TODO: Complete the following function
-    fun toTextFormat(hour: String, minute: String): String {
+    fun abbreviationFromA(a: String, b: String): String {
         throw NotImplementedError("Not implemented")
     }
 }

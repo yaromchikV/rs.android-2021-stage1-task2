@@ -1,6 +1,6 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
-import subtask5.Blocks
+import subtask3.Blocks
 import java.time.LocalDate
 
 class Task2BlocksTest {
